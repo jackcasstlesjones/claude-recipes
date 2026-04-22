@@ -1,0 +1,14 @@
+{
+  "meal": "Tuna Egg Hash",
+  "total_kcal": 575,
+  "ingredients": [
+    { "item": "Tuna in brine (2 tins, ~145g each drained)", "kcal": 220 },
+    { "item": "Large eggs (3)", "kcal": 240 },
+    { "item": "Chopped tomatoes, half tin (~200g)", "kcal": 40 },
+    { "item": "Onion (2 slices) + garlic (1 clove)", "kcal": 20 },
+    { "item": "Jalapeño (4 slices)", "kcal": 5 },
+    { "item": "Sriracha drizzle", "kcal": 10 },
+    { "item": "Oil (frying, splash)", "kcal": 40 }
+  ],
+  "macros": { "protein_g": 75, "carbs_g": 8, "fat_g": 25 }
+}
