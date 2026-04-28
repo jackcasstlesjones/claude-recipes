@@ -1,0 +1,14 @@
+{
+  "meal": "Sausage, Egg, Beans",
+  "total_kcal": 516,
+  "ingredients": [
+    { "item": "Heck chicken chipolatas (4, ~114g grilled)", "kcal": 148 },
+    { "item": "Baked beans, half tin (~200g)", "kcal": 153 },
+    { "item": "Large eggs (3)", "kcal": 215 }
+  ],
+  "macros": {
+    "protein_g": 46,
+    "carbs_g": 24,
+    "fat_g": 22
+  }
+}

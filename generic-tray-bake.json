@@ -1,0 +1,24 @@
+{
+  "meal": "Generic Protein & Veg Tray Bake / Stir-Fry",
+  "total_kcal": 560,
+  "ingredients": [
+    {
+      "item": "Protein — boneless skinless chicken thighs, 200g (or swap: chicken breast ~330 kcal, prawns 200g ~160 kcal, tuna 2 tins ~220 kcal, turkey mince 200g ~280 kcal)",
+      "kcal": 358
+    },
+    { "item": "Courgette (100g)", "kcal": 17 },
+    { "item": "Carrot (100g)", "kcal": 41 },
+    { "item": "Mixed peppers (100g)", "kcal": 31 },
+    { "item": "Onion (100g)", "kcal": 40 },
+    { "item": "Mushrooms (100g)", "kcal": 22 },
+    { "item": "Broccoli (100g)", "kcal": 34 },
+    { "item": "Peas (50g)", "kcal": 41 },
+    { "item": "Oil (1 tsp)", "kcal": 40 },
+    {
+      "item": "Seasoning — Nando's sauce / soy + garlic / lemon + herbs / fajita spice",
+      "kcal": 20
+    }
+  ],
+  "macros": { "protein_g": 46, "carbs_g": 28, "fat_g": 16 },
+  "notes": "This is the default template. Swap the protein and seasoning to rotate without thinking. Tray bake: 200°C, 35–40 mins. Stir-fry: high heat, 10 mins. Peas are the highest-carb veg here — skip them if you want to cut another 40 kcal and 7g carbs. Macros shown are for chicken thighs; adjust if swapping protein."
+}
