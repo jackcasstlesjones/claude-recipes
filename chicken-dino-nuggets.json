@@ -1,0 +1,7 @@
+{
+  "name": "Chicken Dino Nuggets",
+  "kcal": 33,
+  "serving": "1 nugget",
+  "macros": { "protein_g": 1.7, "carbs_g": 2.2, "fat_g": 1.8 },
+  "notes": "32.5 kcal per nugget, rounded up to 33. The macros are estimated from a typical breaded chicken nugget, so swap in the label figures if you have them."
+}
