@@ -1,0 +1,8 @@
+{
+  "name": "Weetabix",
+  "kcal": 60,
+  "serving": "1 biscuit",
+  "macros": { "protein_g": 2, "carbs_g": 14, "fat_g": 0.3 },
+  "notes": "Per biscuit, from the label: 3 biscuits (53g) = 180 kcal, 6g protein, 42g carbs, 1g fat. Doesn't include milk.",
+  "tags": ["breakfast"]
+}
