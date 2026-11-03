@@ -1,0 +1,12 @@
+{
+  "name": "Weetabix with Milk",
+  "kcal": 280,
+  "serving": "1 bowl",
+  "macros": { "protein_g": 12.8, "carbs_g": 51.8, "fat_g": 5 },
+  "ingredients": [
+    { "item": "Weetabix (3 biscuits, 53g)", "kcal": 180 },
+    { "item": "2% milk (200ml)", "kcal": 100 }
+  ],
+  "notes": "Weetabix figures are from the label: 3 biscuits (53g) = 180 kcal, 6g protein, 42g carbs, 1g fat, so 60 kcal per biscuit. The milk is estimated: 200ml is a guess at a decent pour, and 2% milk is about 50 kcal, 3.4g protein, 4.9g carbs and 2g fat per 100ml. Each extra 50ml of milk adds about 25 kcal.",
+  "tags": ["breakfast"]
+}
