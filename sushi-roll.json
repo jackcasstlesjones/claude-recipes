@@ -1,0 +1,14 @@
+{
+  "name": "Sushi Roll",
+  "kcal": 300,
+  "serving": "1 roll (8 pieces)",
+  "macros": { "protein_g": 13, "carbs_g": 42, "fat_g": 9 },
+  "ingredients": [
+    { "item": "Seasoned sushi rice (~110g)", "kcal": 180 },
+    { "item": "Raw salmon (~35g)", "kcal": 70 },
+    { "item": "Avocado (~25g)", "kcal": 40 },
+    { "item": "Nori (1 sheet)", "kcal": 5 }
+  ],
+  "notes": "Estimate for a standard restaurant salmon avocado roll, about 38 kcal per piece. Published figures for 8 pieces range from about 270 to 400 kcal, with 304 the most commonly cited. Ingredient weights are typical, not measured. Add 50-100 kcal for spicy mayo or tempura bits.",
+  "tags": ["sushi", "eating-out"]
+}
