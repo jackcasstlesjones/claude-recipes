@@ -1,0 +1,8 @@
+{
+  "name": "Banana",
+  "kcal": 105,
+  "serving": "1 banana",
+  "macros": { "protein_g": 1.3, "carbs_g": 27, "fat_g": 0.4 },
+  "notes": "The macros are estimated for a typical medium banana (about 118g).",
+  "tags": ["snack"]
+}
