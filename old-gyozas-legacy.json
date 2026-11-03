@@ -1,0 +1,10 @@
+{
+  "meal": "assorted gyozas",
+  "ingredients": [
+    { "item": "chicken gyoza", "kcal": 31 },
+    { "item": "prawn gyoza", "kcal": 34 },
+    { "item": "beef gyoza", "kcal": 38 },
+    { "item": "pork gyoza", "kcal": 44 }
+  ],
+  "note": "This will be an assorted selection of gyozas, so it's best to just average them out. The average gyoza is 37 kcals"
+}
