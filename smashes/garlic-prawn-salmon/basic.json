@@ -1,0 +1,41 @@
+{
+  "name": "Garlic Prawn & Salmon Smash",
+  "kcal": 186,
+  "serving": "1 portion (batch makes 4)",
+  "macros": {
+    "protein_g": 25.9,
+    "carbs_g": 3.1,
+    "fat_g": 8
+  },
+  "ingredients": [
+    {
+      "item": "Cooked prawns (¼ of 200g)",
+      "kcal": 50
+    },
+    {
+      "item": "Tinned sockeye salmon (¼ of 1 tin, 213g)",
+      "kcal": 81
+    },
+    {
+      "item": "Edamame, thawed (¼ of 100g)",
+      "kcal": 30
+    },
+    {
+      "item": "Light mayo (¼ of 2 tbsp)",
+      "kcal": 24
+    },
+    {
+      "item": "Gochugaru (Korean chilli flakes) (¼ of 1 tbsp)",
+      "kcal": 0
+    },
+    {
+      "item": "Lemon (¼ of 1)",
+      "kcal": 0
+    }
+  ],
+  "notes": "Toss the prawns in the gochugaru and lemon juice, then chop everything together.\n\nMakes 4 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): gochugaru, lemon.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

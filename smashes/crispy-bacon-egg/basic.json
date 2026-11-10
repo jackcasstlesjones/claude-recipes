@@ -1,0 +1,33 @@
+{
+  "name": "Crispy Bacon & Egg Smash",
+  "kcal": 424,
+  "serving": "1 portion (batch makes 2)",
+  "macros": {
+    "protein_g": 25.7,
+    "carbs_g": 4.4,
+    "fat_g": 32.5
+  },
+  "ingredients": [
+    {
+      "item": "Boiled eggs, large (½ of 4)",
+      "kcal": 156
+    },
+    {
+      "item": "Bacon, cooked (½ of 4 rashers)",
+      "kcal": 86
+    },
+    {
+      "item": "Light cream cheese (½ of 100g)",
+      "kcal": 116
+    },
+    {
+      "item": "Feta (½ of 50g)",
+      "kcal": 66
+    }
+  ],
+  "notes": "Air-fry the bacon until crisp. Mash the yolks with the cream cheese and feta, then fold in the chopped whites and bacon.\n\nMakes 2 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

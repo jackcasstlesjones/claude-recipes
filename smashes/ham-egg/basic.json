@@ -1,0 +1,37 @@
+{
+  "name": "Ham & Egg Smash",
+  "kcal": 207,
+  "serving": "1 portion (batch makes 4)",
+  "macros": {
+    "protein_g": 18,
+    "carbs_g": 2.8,
+    "fat_g": 13.3
+  },
+  "ingredients": [
+    {
+      "item": "Boiled eggs, large (¼ of 6)",
+      "kcal": 117
+    },
+    {
+      "item": "Thick-cut ham (¼ of 200g)",
+      "kcal": 53
+    },
+    {
+      "item": "Cornichons (¼ of 10)",
+      "kcal": 0
+    },
+    {
+      "item": "Light mayo (¼ of 3 tbsp)",
+      "kcal": 37
+    },
+    {
+      "item": "Dijon (¼ of 1 tsp)",
+      "kcal": 0
+    }
+  ],
+  "notes": "Chop everything through together.\n\nMakes 4 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): cornichons, dijon.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Cheesy Pesto Egg Smash",
+  "kcal": 394,
+  "serving": "1 portion (batch makes 3)",
+  "macros": {
+    "protein_g": 28.9,
+    "carbs_g": 3.8,
+    "fat_g": 28.1
+  },
+  "ingredients": [
+    {
+      "item": "Boiled eggs, large (⅓ of 10)",
+      "kcal": 260
+    },
+    {
+      "item": "Full-fat cottage cheese (⅓ of 4 tbsp, 60g)",
+      "kcal": 21
+    },
+    {
+      "item": "Pesto (⅓ of 2½ tbsp)",
+      "kcal": 57
+    },
+    {
+      "item": "Parmesan, grated (⅓ of 40g)",
+      "kcal": 57
+    }
+  ],
+  "notes": "Smash everything together.\n\nMakes 3 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

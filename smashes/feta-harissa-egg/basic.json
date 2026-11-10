@@ -1,0 +1,33 @@
+{
+  "name": "Feta & Harissa Egg Smash",
+  "kcal": 519,
+  "serving": "1 portion (batch makes 3)",
+  "macros": {
+    "protein_g": 29,
+    "carbs_g": 7.6,
+    "fat_g": 40.5
+  },
+  "ingredients": [
+    {
+      "item": "Boiled eggs, large (⅓ of 9)",
+      "kcal": 234
+    },
+    {
+      "item": "Feta (⅓ of 200g)",
+      "kcal": 176
+    },
+    {
+      "item": "Harissa (⅓ of 3 tbsp)",
+      "kcal": 46
+    },
+    {
+      "item": "Mayo (⅓ of 2 tbsp)",
+      "kcal": 63
+    }
+  ],
+  "notes": "Smash everything together.\n\nMakes 3 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

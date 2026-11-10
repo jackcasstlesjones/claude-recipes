@@ -1,0 +1,37 @@
+{
+  "name": "Spicy Tuna Caesar Smash",
+  "kcal": 183,
+  "serving": "1 portion (batch makes 2)",
+  "macros": {
+    "protein_g": 25.3,
+    "carbs_g": 2.3,
+    "fat_g": 7.3
+  },
+  "ingredients": [
+    {
+      "item": "Tinned tuna in water, drained (½ of 100g)",
+      "kcal": 58
+    },
+    {
+      "item": "Full-fat cottage cheese (½ of 100g)",
+      "kcal": 52
+    },
+    {
+      "item": "Parmesan, grated (½ of 30g)",
+      "kcal": 65
+    },
+    {
+      "item": "Pickled jalapeños, chopped (½ of 30g)",
+      "kcal": 0
+    },
+    {
+      "item": "Anchovies, chopped (½ of 3)",
+      "kcal": 9
+    }
+  ],
+  "notes": "Mix everything together. It's light, so have it with toast.\n\nMakes 2 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): pickled jalapeños.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Chicken Caesar Egg Smash",
+  "kcal": 556,
+  "serving": "1 portion (batch makes 3)",
+  "macros": {
+    "protein_g": 56.8,
+    "carbs_g": 2.3,
+    "fat_g": 33.7
+  },
+  "ingredients": [
+    {
+      "item": "Cooked chicken breasts (⅓ of 2, ~300g)",
+      "kcal": 165
+    },
+    {
+      "item": "Boiled eggs, large (⅓ of 9)",
+      "kcal": 234
+    },
+    {
+      "item": "Mayo (⅓ of 3 tbsp)",
+      "kcal": 94
+    },
+    {
+      "item": "Dijon (⅓ of 1½ tbsp)",
+      "kcal": 0
+    },
+    {
+      "item": "Tin of anchovies (⅓ of 30g, ~10 fillets)",
+      "kcal": 20
+    },
+    {
+      "item": "Parmesan, grated (⅓ of 30g)",
+      "kcal": 43
+    }
+  ],
+  "notes": "Smash the eggs with the mayo, Dijon, chopped anchovies and Parmesan, then fold in the chicken.\n\nMakes 3 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): dijon.\n\n2 cooked chicken breasts are assumed to be about 300g. The 30g tin of anchovies is about 10 fillets.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

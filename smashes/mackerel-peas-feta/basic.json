@@ -1,0 +1,37 @@
+{
+  "name": "Mackerel, Peas & Feta Smash",
+  "kcal": 649,
+  "serving": "1 portion (batch makes 2)",
+  "macros": {
+    "protein_g": 58.1,
+    "carbs_g": 11.6,
+    "fat_g": 40.6
+  },
+  "ingredients": [
+    {
+      "item": "Tinned mackerel in water or brine, drained (½ of 420g)",
+      "kcal": 328
+    },
+    {
+      "item": "Frozen peas, blanched for 1 min (½ of 150g)",
+      "kcal": 58
+    },
+    {
+      "item": "Feta, crumbled (½ of 200g)",
+      "kcal": 264
+    },
+    {
+      "item": "Tabasco (½ of 1 tbsp)",
+      "kcal": 0
+    },
+    {
+      "item": "Lemon juice (½ of 1 lemon)",
+      "kcal": 0
+    }
+  ],
+  "notes": "Flake and crumble everything together. This is the heaviest fish one, mostly because of the feta.\n\nMakes 2 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): tabasco, lemon juice.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

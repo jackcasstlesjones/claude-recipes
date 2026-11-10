@@ -1,0 +1,45 @@
+{
+  "name": "Sesame Salmon Smash",
+  "kcal": 392,
+  "serving": "1 portion",
+  "macros": {
+    "protein_g": 48.3,
+    "carbs_g": 1.6,
+    "fat_g": 21.3
+  },
+  "ingredients": [
+    {
+      "item": "Tinned sockeye salmon (1 tin, 213g)",
+      "kcal": 326
+    },
+    {
+      "item": "0% Greek yoghurt (3 tbsp, 45g)",
+      "kcal": 27
+    },
+    {
+      "item": "Sesame oil (1 tsp)",
+      "kcal": 40
+    },
+    {
+      "item": "Ginger paste (1 tsp)",
+      "kcal": 0
+    },
+    {
+      "item": "Rice vinegar (1 tsp)",
+      "kcal": 0
+    },
+    {
+      "item": "Cucumber, diced (add fresh each time) (½)",
+      "kcal": 0
+    },
+    {
+      "item": "Sriracha to finish (drizzle)",
+      "kcal": 0
+    }
+  ],
+  "notes": "Mix the yoghurt, sesame oil, ginger and vinegar. Flake in the salmon and smash. Fold in the cucumber and top with sriracha.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): ginger paste, rice vinegar, cucumber, sriracha to finish.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Salmon & Miso Smash",
+  "kcal": 343,
+  "serving": "1 portion (batch makes 2)",
+  "macros": {
+    "protein_g": 44.8,
+    "carbs_g": 2.1,
+    "fat_g": 17.1
+  },
+  "ingredients": [
+    {
+      "item": "Tinned sockeye salmon (½ of 2 tins, 213g each)",
+      "kcal": 326
+    },
+    {
+      "item": "Miso (½ of 1 tbsp)",
+      "kcal": 17
+    },
+    {
+      "item": "Ginger paste (½ of 1 tsp)",
+      "kcal": 0
+    },
+    {
+      "item": "Soy sauce (½ of 1 tbsp)",
+      "kcal": 0
+    }
+  ],
+  "notes": "Mix the miso, ginger and soy, then flake in the salmon.\n\nMakes 2 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): ginger paste, soy sauce.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

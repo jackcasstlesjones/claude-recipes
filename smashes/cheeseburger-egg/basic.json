@@ -1,0 +1,41 @@
+{
+  "name": "Cheeseburger Egg Smash",
+  "kcal": 584,
+  "serving": "1 portion (batch makes 3)",
+  "macros": {
+    "protein_g": 35.6,
+    "carbs_g": 3.9,
+    "fat_g": 46
+  },
+  "ingredients": [
+    {
+      "item": "Boiled eggs, large (⅓ of 9)",
+      "kcal": 234
+    },
+    {
+      "item": "Bacon, cooked (⅓ of 9 rashers)",
+      "kcal": 129
+    },
+    {
+      "item": "Cheddar, grated (⅓ of 90g)",
+      "kcal": 121
+    },
+    {
+      "item": "Cornichons (⅓ of 12)",
+      "kcal": 0
+    },
+    {
+      "item": "Mayo (⅓ of 3 tbsp)",
+      "kcal": 94
+    },
+    {
+      "item": "Ketchup (⅓ of 1 tbsp)",
+      "kcal": 6
+    }
+  ],
+  "notes": "Air-fry the bacon, then smash everything together.\n\nMakes 3 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): cornichons.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

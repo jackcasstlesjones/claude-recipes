@@ -1,0 +1,37 @@
+{
+  "name": "Chickpea, Tahini & Harissa Smash",
+  "kcal": 242,
+  "serving": "1 portion (batch makes 2)",
+  "macros": {
+    "protein_g": 9.3,
+    "carbs_g": 25.7,
+    "fat_g": 10.5
+  },
+  "ingredients": [
+    {
+      "item": "Chickpeas, drained (½ of 1 jar, ~240g)",
+      "kcal": 167
+    },
+    {
+      "item": "Vegan mayo (½ of 1 tbsp)",
+      "kcal": 45
+    },
+    {
+      "item": "Harissa (½ of 2 tsp)",
+      "kcal": 15
+    },
+    {
+      "item": "Tahini (½ of 1 tsp)",
+      "kcal": 15
+    },
+    {
+      "item": "Lemon juice (½ of 1 lemon)",
+      "kcal": 0
+    }
+  ],
+  "notes": "Lightly smash the chickpeas and stir everything through.\n\nMakes 2 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): lemon juice.\n\nThe jar of chickpeas is assumed to be about 240g drained.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

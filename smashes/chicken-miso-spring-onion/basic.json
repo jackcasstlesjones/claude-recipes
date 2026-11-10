@@ -1,0 +1,33 @@
+{
+  "name": "Chicken, Miso & Spring Onion Smash",
+  "kcal": 157,
+  "serving": "1 portion (batch makes 4)",
+  "macros": {
+    "protein_g": 23.9,
+    "carbs_g": 1.8,
+    "fat_g": 5.3
+  },
+  "ingredients": [
+    {
+      "item": "Cooked chicken breasts, shredded (¼ of 2, ~300g)",
+      "kcal": 124
+    },
+    {
+      "item": "White miso (¼ of 1 tbsp)",
+      "kcal": 8
+    },
+    {
+      "item": "Light mayo (¼ of 2 tbsp)",
+      "kcal": 24
+    },
+    {
+      "item": "Spring onions, sliced (¼ of 3)",
+      "kcal": 0
+    }
+  ],
+  "notes": "Coat the chicken in the miso and mayo, then fold in the spring onions. It's light, so have it with toast or make 3 portions.\n\nMakes 4 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): spring onions.\n\n2 cooked chicken breasts are assumed to be about 300g.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

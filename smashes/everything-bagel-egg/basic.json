@@ -1,0 +1,33 @@
+{
+  "name": "Everything Bagel Egg Smash",
+  "kcal": 413,
+  "serving": "1 portion (batch makes 3)",
+  "macros": {
+    "protein_g": 34.4,
+    "carbs_g": 5.5,
+    "fat_g": 27.4
+  },
+  "ingredients": [
+    {
+      "item": "Boiled eggs, large (⅓ of 9)",
+      "kcal": 234
+    },
+    {
+      "item": "Smoked salmon (⅓ of 200g)",
+      "kcal": 78
+    },
+    {
+      "item": "Cream cheese (⅓ of 2 tbsp)",
+      "kcal": 34
+    },
+    {
+      "item": "Everything bagel seasoning (⅓ of 4 tbsp)",
+      "kcal": 67
+    }
+  ],
+  "notes": "Smash the eggs with the cream cheese, then fold in the torn salmon and seasoning.\n\nMakes 3 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

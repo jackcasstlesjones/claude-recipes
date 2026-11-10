@@ -1,0 +1,33 @@
+{
+  "name": "Chicken, Pesto & Sun-Dried Tomato Smash",
+  "kcal": 262,
+  "serving": "1 portion (batch makes 4)",
+  "macros": {
+    "protein_g": 28.9,
+    "carbs_g": 5.5,
+    "fat_g": 13.2
+  },
+  "ingredients": [
+    {
+      "item": "Cooked chicken breast, shredded (¼ of 300g)",
+      "kcal": 124
+    },
+    {
+      "item": "Full-fat cottage cheese (¼ of 150g)",
+      "kcal": 39
+    },
+    {
+      "item": "Pesto (¼ of 60g)",
+      "kcal": 68
+    },
+    {
+      "item": "Sun-dried tomatoes in oil, drained and chopped (¼ of 60g)",
+      "kcal": 32
+    }
+  ],
+  "notes": "Mix everything together.\n\nMakes 4 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

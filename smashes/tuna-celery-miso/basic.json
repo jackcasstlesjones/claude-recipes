@@ -1,0 +1,37 @@
+{
+  "name": "Tuna, Celery & Miso Smash",
+  "kcal": 283,
+  "serving": "1 portion (batch makes 2)",
+  "macros": {
+    "protein_g": 39.4,
+    "carbs_g": 2.2,
+    "fat_g": 11.9
+  },
+  "ingredients": [
+    {
+      "item": "Tinned tuna in water, drained (½ of 300g)",
+      "kcal": 174
+    },
+    {
+      "item": "Celery, chopped (½ of 3 sticks)",
+      "kcal": 0
+    },
+    {
+      "item": "White miso (½ of 1 tbsp)",
+      "kcal": 17
+    },
+    {
+      "item": "Mayo (½ of 1 tbsp)",
+      "kcal": 47
+    },
+    {
+      "item": "Sesame oil (½ of ¾ tbsp)",
+      "kcal": 45
+    }
+  ],
+  "notes": "Whisk the miso, mayo and oil, then mix in the tuna and celery.\n\nMakes 2 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): celery.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}

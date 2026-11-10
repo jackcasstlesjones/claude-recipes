@@ -1,0 +1,37 @@
+{
+  "name": "Chicken, Basil & Fennel Smash",
+  "kcal": 559,
+  "serving": "1 portion (batch makes 2)",
+  "macros": {
+    "protein_g": 86.6,
+    "carbs_g": 2.1,
+    "fat_g": 20.3
+  },
+  "ingredients": [
+    {
+      "item": "Cooked chicken breasts, chopped (½ of 3, ~450g)",
+      "kcal": 371
+    },
+    {
+      "item": "Parmesan, grated (½ of 80g)",
+      "kcal": 172
+    },
+    {
+      "item": "Full-fat cottage cheese (½ of 2 tbsp, 30g)",
+      "kcal": 15
+    },
+    {
+      "item": "Basil, chopped (½ of 30g)",
+      "kcal": 0
+    },
+    {
+      "item": "Fennel seeds (½ of 1 tsp)",
+      "kcal": 0
+    }
+  ],
+  "notes": "Mix everything together.\n\nMakes 2 portions. Each ingredient line shows that portion's share of the batch.\n\nThe cut-down version. Calories are for the smash only, without bread, so add your bread from its label.\n\nNot counted (0 kcal): basil, fennel seeds.\n\n3 cooked chicken breasts are assumed to be about 450g.\n\nCalories are estimates from typical values per ingredient, and the macros are estimated too. Brands vary, especially pesto, mayo and harissa.",
+  "tags": [
+    "smash",
+    "basic"
+  ]
+}
