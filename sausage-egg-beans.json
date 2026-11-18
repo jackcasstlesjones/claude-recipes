@@ -2,11 +2,24 @@
   "name": "Sausage, Egg, Beans",
   "kcal": 596,
   "serving": "1 portion",
-  "macros": { "protein_g": 46, "carbs_g": 24, "fat_g": 22 },
+  "macros": {
+    "protein_g": 47,
+    "carbs_g": 24,
+    "fat_g": 30
+  },
   "ingredients": [
-    { "item": "Sausages (4, label says 130 kcal per 3)", "kcal": 173 },
-    { "item": "Baked beans (half tin, ~200g)", "kcal": 153 },
-    { "item": "Large eggs (3)", "kcal": 270 }
+    {
+      "item": "Sausages (4, label says 130 kcal per 3)",
+      "kcal": 173
+    },
+    {
+      "item": "Baked beans (half tin, ~200g)",
+      "kcal": 153
+    },
+    {
+      "item": "Large eggs (3)",
+      "kcal": 270
+    }
   ],
-  "notes": "Macros are still from the old Heck chicken chipolatas, so they're estimated until the new sausages' label macros are added."
+  "notes": "Sausage macros are from the label (per 3: 130 kcal, 12g protein, 1g carbs, 8g fat), scaled up to 4. Egg and bean macros are estimated from typical values."
 }
