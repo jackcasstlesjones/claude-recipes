@@ -1,10 +1,10 @@
 {
   "name": "Sausage, Egg, Beans",
-  "kcal": 596,
+  "kcal": 513,
   "serving": "1 portion",
   "macros": {
-    "protein_g": 47,
-    "carbs_g": 24,
+    "protein_g": 41.5,
+    "carbs_g": 16.3,
     "fat_g": 30
   },
   "ingredients": [
@@ -13,13 +13,13 @@
       "kcal": 173
     },
     {
-      "item": "Baked beans (half tin, ~200g)",
-      "kcal": 153
+      "item": "Baked beans (half a 398ml tin)",
+      "kcal": 70
     },
     {
       "item": "Large eggs (3)",
       "kcal": 270
     }
   ],
-  "notes": "Sausage macros are from the label (per 3: 130 kcal, 12g protein, 1g carbs, 8g fat), scaled up to 4. Egg and bean macros are estimated from typical values."
+  "notes": "Sausage macros are from the label (per 3: 130 kcal, 12g protein, 1g carbs, 8g fat), scaled up to 4. Bean figures are from the label (whole 398ml tin: 140 kcal, 7g protein, 28g carbs, 0.5g fat), halved; that's low for a whole tin, so the label may really be giving a smaller serving. Egg macros are estimated from typical values."
 }
